@@ -1,4 +1,4 @@
-# RARABOND-Corporate
+# nuxt-boilerplate
 
 > My classy Nuxt.js project
 
